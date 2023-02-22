@@ -9,5 +9,5 @@
  */
 int _islower(int c)
 {
-return (int) (c >= 'a' && c <= 'z');
+return ((int) (c >= 'a' && c <= 'z'));
 }

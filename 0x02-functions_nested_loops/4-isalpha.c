@@ -9,5 +9,5 @@
  */
 int _isalpha(int c)
 {
-return (int)((c >= 'a' && c <= 'z') || (c >= 'A' && c < 'Z'));
+return ((int)((c >= 'a' && c <= 'z') || (c >= 'A' && c < 'Z')));
 }
