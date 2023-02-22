@@ -7,5 +7,5 @@
  */
 int _islower(char c)
 {
-return c >= 'a' && c <= 'z';
+return (int) c >= 'a' && c <= 'z';
 }
