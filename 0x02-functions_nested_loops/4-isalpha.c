@@ -5,7 +5,7 @@
  *
  * Return: 0 or 1
  */
-int _isalpha(char c)
+int _isalpha(int c)
 {
 return (int)( c >= 'a' && c <= 'z' ) || ( c >= 'A' && c < 'Z' );
 }
