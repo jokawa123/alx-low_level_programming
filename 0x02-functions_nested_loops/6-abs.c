@@ -7,7 +7,7 @@
  *
  * Return: abs value
  */
-int abs(int n)
+int _abs(int n)
 {
 int m = n;
 if (m < 0)
