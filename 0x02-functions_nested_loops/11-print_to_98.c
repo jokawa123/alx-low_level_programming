@@ -3,13 +3,13 @@
 #include "main.h"
 
 /**
- * print_98-prints all natural numbers from n to 98.
+ * print_to_98-prints all natural numbers from n to 98.
  *
  * @n:number to check.
  *
  * Return: values from n to 98
  */
-void print_98(int n)
+void print_to_98(int n)
 {
 for (; n <= 98; n--)
 {
