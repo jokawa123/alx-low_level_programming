@@ -9,7 +9,7 @@
  */
 void times_table(void)
 {
-int x , y, op;
+int x, y, op;
 for (x = 0; x <= 9; x++)
 {
 _putchar(48);
@@ -32,4 +32,3 @@ _putchar((op % 10) + 48);
 _putchar(10);
 }
 }
-     
