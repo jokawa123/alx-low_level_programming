@@ -3,7 +3,8 @@
 /**
  * add-adds two integers and returns the result.
  *
- * @n:number to check.
+ * @x:number.
+ * @y:number.
  *
  * Return: value
  */
