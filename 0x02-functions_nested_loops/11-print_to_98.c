@@ -7,11 +7,11 @@
  *
  * @n:number to check.
  *
- * Return: values from n to 98
+ * Return: void
  */
 void print_to_98(int n)
 {
-for (; n <= 98; n--)
+for (; n <= 98; n++)
 {
 printf("%d, ", n);
 }
