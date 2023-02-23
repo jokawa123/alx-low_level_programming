@@ -15,7 +15,7 @@ for (x = 0; x <= 9; x++)
 _putchar(48);
 for (y = 1; y <= 9; y++)
 {
-op = a * b;
+op = x * y;
 _putchar(44);
 _putchar(32);
 if (op < 9)
