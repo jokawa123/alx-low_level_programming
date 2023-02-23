@@ -12,4 +12,6 @@ extern int _islower(int c);
 extern int _isalpha(int c);
 
 extern int print_sign(int n);
+
+extern int _abs(int);
 #endif
